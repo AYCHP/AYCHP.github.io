@@ -1,0 +1,192 @@
+body{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.UserLoginForm{
+    margin-top:5%;
+    border: solid 1px #e5e5e5;
+    padding: 40px;
+    margin-bottom: 1rem;
+}
+
+.NoAccessMessage{
+    margin-top:5%;
+    border: solid 1px #e5e5e5;
+    padding: 100px;
+    margin-bottom: 1rem;
+}
+
+/* Data Management */
+.mainContainer{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    max-width: 1240px;
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.mainContainerProductionLine{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.mainContainerProductionDepartment{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.mainContainerProductionGroup{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.mainContainerUser{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.mainContainer-header{
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #333;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+}
+.MainContainerRefresh{
+    margin-top: 0.5rem;
+    color: #868e96;
+  }
+.breadcrumb{
+    background-color: #f5f5f5;
+}
+.button-container{
+    margin-top: 1rem;
+}
+.MainContainerHeader{
+    padding: 15px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #333;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+  }
+
+  /* NEW CSS */
+  .MainContainer-Header{
+    padding: 15px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #333;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+  }
+  .MainContainer{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    max-width: 1240px;
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.MainContainer-ProductionGroup{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.MainContainer-ProductionLine{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.MainContainer-ProductionDepartment{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.MainContainer-ProductionBusinessUnit{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
+.MainContainer-User{
+    margin-top: 3rem;;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height:2 ;
+}
